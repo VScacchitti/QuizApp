@@ -1,5 +1,5 @@
 # QuizHW
-In this assignment we use HTML, CSS, JS, and DOM manipulation to write a quiz about coding, This quiz is timed, begins on a start button, alerts a user if they are correct or incorrect, and allows the tp save their high scores in local storage. Players are awarded 10 points for each correct answer and subtract 5 seconds of time if they are incorrect. App design is mobile friendly.
+In this assignment we use HTML, CSS, JS, and DOM manipulation to write a quiz about coding, This quiz is timed, begins on a start button, the quiz lets a user know if they are correct or incorrect by showing red or green on the selected answer. The top 5 quiz scores are saved onto a High Scores page where  the user can enter their intials or name, and their score will be saved iton local storage if it is one of the top 5. Players are awarded 10 points for each correct answer and subtract 5 seconds of time if they are incorrect. App design is mobile friendly.
 
 Start Quiz
 
