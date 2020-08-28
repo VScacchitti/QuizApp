@@ -6,12 +6,14 @@ Start Quiz
 
 
 Quiz
+
 ![Screen Shot 2020-08-28 at 3 47 54 PM](https://user-images.githubusercontent.com/67161794/91618186-b8330780-e957-11ea-8c36-b2bbf280fa5b.png)
 
 
 
 End Quiz
 
+![Screen Shot 2020-08-28 at 3 47 54 PM](https://user-images.githubusercontent.com/67161794/91618186-b8330780-e957-11ea-8c36-b2bbf280fa5b.png)
 
 
 
