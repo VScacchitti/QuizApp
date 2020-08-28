@@ -25,6 +25,6 @@ High Scores
 
 
 
-Link
+
 Repo: https://github.com/VScacchitti/QuizHW
 Deployrd App: https://vscacchitti.github.io/QuizHW/
